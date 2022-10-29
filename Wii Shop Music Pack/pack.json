@@ -1,0 +1,9 @@
+{
+  "name": "Wii Shop Channel Music Pack",
+  "description": "The background music from the Wii Shop Channel",
+  "author": "InsideDev",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
